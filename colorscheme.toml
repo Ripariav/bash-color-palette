@@ -1,0 +1,13 @@
+[colors]
+background_primary = "#171D1C"       # Eerie Black - fondo principal
+background_secondary = "#2F323A"     # Gunmetal - fondo secundario
+text_primary = "#F5F5F5"             # White Smoke - texto principal
+accent_primary = "#751EFF"           # Violeta - detalles llamativos
+accent_secondary = "#9240FE"         # Veronica - detalles suaves
+
+# Colores adicionales recomendados
+accent_tertiary = "#BB86FC"          # Lavender - para hover o bordes suaves
+error = "#FF6B6B"                    # Coral Red - errores
+success = "#4CAF50"                  # Green - éxito
+warning = "#FFC107"                  # Amarillo suave - advertencias
+info = "#2196F3"                     # Azul - informaciones
